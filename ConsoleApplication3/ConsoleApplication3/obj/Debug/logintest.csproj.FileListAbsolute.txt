@@ -1,0 +1,9 @@
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\obj\Debug\logintest.csprojResolveAssemblyReference.cache
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\bin\Debug\login.exe.config
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\bin\Debug\login.exe
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\bin\Debug\login.pdb
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\obj\Debug\login.exe
+E:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\obj\Debug\login.pdb
+E:\Personal\Desktop\logintest\source code\ConsoleApplication3\ConsoleApplication3\bin\Debug\login.exe.config
+E:\Personal\Desktop\logintest\source code\ConsoleApplication3\ConsoleApplication3\obj\Debug\login.exe
+E:\Personal\Desktop\logintest\source code\ConsoleApplication3\ConsoleApplication3\obj\Debug\login.pdb

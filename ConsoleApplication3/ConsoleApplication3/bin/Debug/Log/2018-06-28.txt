@@ -1,0 +1,34 @@
+消息：System.Net.WebException: 未能解析此远程名称: 'www.athenaiot.cn'
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 ConsoleApplication3.Program.Main(String[] args) 位置 e:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\Program.cs:行号 37
+时间：2018-06-28 10:09:53
+**************************************************
+
+消息：System.Net.WebException: 未能解析此远程名称: 'www.athenaiot.cn'
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 ConsoleApplication3.Program.Main(String[] args) 位置 e:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\Program.cs:行号 37
+时间：2018-06-28 10:11:39
+**************************************************
+
+消息：{"code":"0","suc":true,"msg":"成功","data":{"access_token":"AT_ATHENA_IND_12EF26A5E3D747E9A7ACDB789500CF7D"}}
+时间：2018-06-28 10:17:21
+**************************************************
+
+消息：{"code":"0","suc":true,"msg":"成功","data":{"access_token":"AT_ATHENA_IND_1FF65B0D2FF04C7AA66DF5BF6D365743"}}
+时间：2018-06-28 10:17:22
+**************************************************
+
+消息：{"code":"0","suc":true,"msg":"成功","data":{"access_token":"AT_ATHENA_IND_4695A35285844F2E97A7771E15C1D7CB"}}
+时间：2018-06-28 10:17:23
+**************************************************
+
+消息：System.Net.WebException: 未能解析此远程名称: 'www.athenaiot.cn'
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 ConsoleApplication3.Program.Main(String[] args) 位置 e:\Personal\Desktop\work\autologin\num\ConsoleApplication3\ConsoleApplication3\Program.cs:行号 37
+时间：2018-06-28 10:25:57
+**************************************************
+
+消息：fail to login baidu,check the internet
+时间：2018-06-28 10:25:57
+**************************************************
+
